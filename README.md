@@ -15,7 +15,7 @@ This repository contains various **Computer network** lab experiments created us
 - **Clone the Repository**:  
    To download the lab files, clone this repository using Git:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+  https://github.com/alamgir-ahosain/Cisco-Packet-Tracer.git
    
 
 ## Requirements
